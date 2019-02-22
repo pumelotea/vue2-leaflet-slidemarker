@@ -3,7 +3,7 @@
 - 1.0.0 this version is the vue2-leaflet-movingmarker update
 
 ## Install
-```bash
+```bashnp
 npm install --save vue2-leaflet-slidemarker
 ```
 
